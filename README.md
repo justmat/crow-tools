@@ -1,2 +1,2 @@
 # crow-tools
-Music tools for Monome and Whimsical Raps Crow.
+Music tools for the Monome/Whimsical Raps Crow.
