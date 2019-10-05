@@ -1,5 +1,5 @@
 -- input 1 - pitch cv
--- input 2 - octave cv
+-- input 2 - offset cv
 
 local offset = 0.0
 
